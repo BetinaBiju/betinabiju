@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Betina Biju
 
 ## 🚀 About Me
-🎓 M.Tech Aspirant | Computer Science Engineer
+🎓 M.Tech Student SSIT(Tumakuru) | Computer Science Engineer
 
 💻 Passionate about Machine Learning, Artificial Intelligence, and Software Development
 
